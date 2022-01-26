@@ -108,6 +108,11 @@ nav h2 {
   padding-left: 0.25em;
 }
 
+nav h2 img {
+  width: 45px;
+  height: 45px;
+}
+
 nav h2 span {
   color: var(--clr-accent);
 }
